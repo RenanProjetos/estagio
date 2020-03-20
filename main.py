@@ -1,5 +1,2 @@
-{
+{\rtf1}
 print "tst"
-
-
-\rtf1}
