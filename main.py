@@ -1,0 +1,5 @@
+{
+print "tst"
+
+
+\rtf1}
