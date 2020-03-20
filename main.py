@@ -1,2 +1,1 @@
-{\rtf1}
-print "tst"
+print 'tst'
