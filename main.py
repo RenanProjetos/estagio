@@ -1,1 +1,1 @@
-print 'tst'
+dot net core
